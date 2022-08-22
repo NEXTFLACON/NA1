@@ -13,8 +13,8 @@ modules:
 
     # 主要功能模組
     login:
-        username: your_username
-        password: your_password
+        username: strdexintluk
+        password: 123456ax
     sign:
     guild:
     answer:
